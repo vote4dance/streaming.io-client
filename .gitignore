@@ -1,0 +1,8 @@
+.DS_Store
+.metadata
+node_modules
+npm-debug.log
+.idea/workspace.xml
+*.swp
+*.swo
+
