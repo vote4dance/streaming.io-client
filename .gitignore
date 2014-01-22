@@ -2,7 +2,8 @@
 .metadata
 node_modules
 npm-debug.log
-.idea/workspace.xml
+.idea
+*.iml
 *.swp
 *.swo
 
