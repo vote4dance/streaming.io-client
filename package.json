@@ -1,6 +1,6 @@
 {
 	"name": "streaming.io-client",
-	"version": "0.2.3",
+	"version": "0.2.3-fix",
 
     "main": "./lib/main.js"
 }
